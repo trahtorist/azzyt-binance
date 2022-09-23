@@ -1,6 +1,6 @@
 # Работа с API Binance
 
-Исходный код для видео на канале Azzrael Code / https://azzrael.ru.
+Исходный код для видео на канале 
 
 ## Основные ссылки
 - Рефералка для реги на Binance https://accounts.binance.com/ru/register?ref=335216425
